@@ -8,3 +8,6 @@ def reverseArray(a):
         x.append(a[i])
         
     return(x)
+
+
+reverseArray([1, 2, 3, 4, 5])
